@@ -2,7 +2,7 @@
 <h1>ExpNo 3 : Implement Breadth First Search Traversal of a Graph</h1> 
 <h3>Name: JAYAGAR.T </h3>
 <h3>Register Number: 212224220042 </h3>
-<h3>Date: 22=04-2026 </h3>
+<h3>Date: 22-04-2026 </h3>
 
 <H3>Aim:</H3>
 <p>To Implement Breadth First Search Traversal of a Graph using Python 3.</p>
